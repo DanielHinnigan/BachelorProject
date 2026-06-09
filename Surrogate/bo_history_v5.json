@@ -1,0 +1,506 @@
+[
+    {
+        "Sample": [
+            3.0,
+            1.0,
+            0.5,
+            0.1
+        ],
+        "Output": 124.32304376277226,
+        "Current maximum": 121.5450713012366,
+        "Current optimal point": [
+            2.6875,
+            4.625,
+            1.0625,
+            1.2875
+        ],
+        "Maximum EI": 27.948236550076103,
+        "Predictive Variance": [
+            252.67174
+        ],
+        "Predictive mean": [
+            149.23089729
+        ],
+        "Cumulative computation time": 3404.7857414,
+        "Kernel": "73.7**2 * RBF(length_scale=[19.4, 10.7, 37.1, 3.61])",
+        "Log-likelihood": -48.8194363991574,
+        "Average Torque": -140.46066538754025,
+        "Torque Ripple": 16.13762162476799
+    },
+    {
+        "Sample": [
+            3.0,
+            1.50992613,
+            5.0,
+            0.8643944
+        ],
+        "Output": 127.9478905517806,
+        "Current maximum": 124.32304376277226,
+        "Current optimal point": [
+            3.0,
+            1.0,
+            0.5,
+            0.1
+        ],
+        "Maximum EI": 6.380612973717771,
+        "Predictive Variance": [
+            31.36313541
+        ],
+        "Predictive mean": [
+            130.29280212
+        ],
+        "Cumulative computation time": 8009.558154400001,
+        "Kernel": "62.4**2 * RBF(length_scale=[10.8, 9.99, 31, 3.35])",
+        "Log-likelihood": -53.128861826672605,
+        "Average Torque": -141.58103895852415,
+        "Torque Ripple": 13.633148406743548
+    },
+    {
+        "Sample": [
+            3.0,
+            1.0,
+            0.5,
+            1.09892181
+        ],
+        "Output": 125.45661893486178,
+        "Current maximum": 127.9478905517806,
+        "Current optimal point": [
+            3.0,
+            1.50992613,
+            5.0,
+            0.8643944
+        ],
+        "Maximum EI": 1.9972157098175163,
+        "Predictive Variance": [
+            11.09536758
+        ],
+        "Predictive mean": [
+            129.12135438
+        ],
+        "Cumulative computation time": 12138.6789894,
+        "Kernel": "62.4**2 * RBF(length_scale=[11, 9.83, 34, 3.64])",
+        "Log-likelihood": -55.777188929496916,
+        "Average Torque": -138.4787956425978,
+        "Torque Ripple": 13.022176707736003
+    },
+    {
+        "Sample": [
+            3.0,
+            3.23303735,
+            5.0,
+            0.51091777
+        ],
+        "Output": 126.17879524987316,
+        "Current maximum": 127.9478905517806,
+        "Current optimal point": [
+            3.0,
+            1.50992613,
+            5.0,
+            0.8643944
+        ],
+        "Maximum EI": 1.6583236968640473,
+        "Predictive Variance": [
+            2.50047687
+        ],
+        "Predictive mean": [
+            129.46375656
+        ],
+        "Cumulative computation time": 16003.987449199998,
+        "Kernel": "60.6**2 * RBF(length_scale=[11.6, 9.35, 31.9, 3.89])",
+        "Log-likelihood": -58.33480370686765,
+        "Average Torque": -139.68599938054317,
+        "Torque Ripple": 13.507204130670006
+    },
+    {
+        "Sample": [
+            1.40268767,
+            1.0,
+            4.75017124,
+            0.47608004
+        ],
+        "Output": 128.37017296103642,
+        "Current maximum": 127.9478905517806,
+        "Current optimal point": [
+            3.0,
+            1.50992613,
+            5.0,
+            0.8643944
+        ],
+        "Maximum EI": 0.33335186239648507,
+        "Predictive Variance": [
+            38.23204533
+        ],
+        "Predictive mean": [
+            120.40842691
+        ],
+        "Cumulative computation time": 19958.8810799,
+        "Kernel": "57.2**2 * RBF(length_scale=[8.1, 9.55, 21.8, 3.73])",
+        "Log-likelihood": -61.27116415253073,
+        "Average Torque": -144.75053731611033,
+        "Torque Ripple": 16.380364355073908
+    },
+    {
+        "Sample": [
+            2.1758985,
+            1.0,
+            4.47709589,
+            0.66597902
+        ],
+        "Output": 124.73760440337634,
+        "Current maximum": 128.37017296103642,
+        "Current optimal point": [
+            1.40268767,
+            1.0,
+            4.75017124,
+            0.47608004
+        ],
+        "Maximum EI": 0.9815517652975906,
+        "Predictive Variance": [
+            0.5364321
+        ],
+        "Predictive mean": [
+            129.31795532
+        ],
+        "Cumulative computation time": 24916.640783799998,
+        "Kernel": "56.6**2 * RBF(length_scale=[6.69, 9.79, 24.9, 3.4])",
+        "Log-likelihood": -64.6496673926059,
+        "Average Torque": -139.6620061999466,
+        "Torque Ripple": 14.92440179657026
+    },
+    {
+        "Sample": [
+            0.5,
+            9.9363661,
+            5.0,
+            0.1
+        ],
+        "Output": 127.69405934487554,
+        "Current maximum": 128.37017296103642,
+        "Current optimal point": [
+            1.40268767,
+            1.0,
+            4.75017124,
+            0.47608004
+        ],
+        "Maximum EI": 8.277061515997499,
+        "Predictive Variance": [
+            704.67263449
+        ],
+        "Predictive mean": [
+            123.3691571
+        ],
+        "Cumulative computation time": 27667.830419099995,
+        "Kernel": "79.8**2 * RBF(length_scale=[1.49, 15.3, 214, 2.54])",
+        "Log-likelihood": -72.92660673696255,
+        "Average Torque": -145.0112283651696,
+        "Torque Ripple": 17.317169020294045
+    },
+    {
+        "Sample": [
+            0.5,
+            2.54303068,
+            5.0,
+            0.1
+        ],
+        "Output": 131.8538298083401,
+        "Current maximum": 128.37017296103642,
+        "Current optimal point": [
+            1.40268767,
+            1.0,
+            4.75017124,
+            0.47608004
+        ],
+        "Maximum EI": 4.4307366958600385,
+        "Predictive Variance": [
+            4.81485332
+        ],
+        "Predictive mean": [
+            132.78281971
+        ],
+        "Cumulative computation time": 31012.4209914,
+        "Kernel": "76.7**2 * RBF(length_scale=[11.7, 9.51, 4, 13.4])",
+        "Log-likelihood": -79.40540747410073,
+        "Average Torque": -149.99508181535307,
+        "Torque Ripple": 18.14125200701297
+    },
+    {
+        "Sample": [
+            3.0,
+            19.07380985,
+            5.0,
+            2.0
+        ],
+        "Output": 75.3537069875332,
+        "Current maximum": 131.8538298083401,
+        "Current optimal point": [
+            0.5,
+            2.54303068,
+            5.0,
+            0.1
+        ],
+        "Maximum EI": 11.787776214646819,
+        "Predictive Variance": [
+            416.81072051
+        ],
+        "Predictive mean": [
+            138.3276516
+        ],
+        "Cumulative computation time": 33288.4089902,
+        "Kernel": "84.8**2 * RBF(length_scale=[1.82, 13.9, 180, 4.08])",
+        "Log-likelihood": -79.61519871102001,
+        "Average Torque": -101.02097598872844,
+        "Torque Ripple": 25.667269001195237
+    },
+    {
+        "Sample": [
+            0.5,
+            1.0,
+            5.0,
+            0.1
+        ],
+        "Output": 130.60767138404498,
+        "Current maximum": 131.8538298083401,
+        "Current optimal point": [
+            0.5,
+            2.54303068,
+            5.0,
+            0.1
+        ],
+        "Maximum EI": 3.467134555099546,
+        "Predictive Variance": [
+            5.61435065
+        ],
+        "Predictive mean": [
+            135.23945699
+        ],
+        "Cumulative computation time": 37005.968297700005,
+        "Kernel": "75.9**2 * RBF(length_scale=[3.12, 12, 42.1, 2.72])",
+        "Log-likelihood": -84.08552390719683,
+        "Average Torque": -149.8981402932686,
+        "Torque Ripple": 19.290468909223627
+    },
+    {
+        "Sample": [
+            0.5,
+            1.0,
+            5.0,
+            2.0
+        ],
+        "Output": 117.38832189388083,
+        "Current maximum": 131.8538298083401,
+        "Current optimal point": [
+            0.5,
+            2.54303068,
+            5.0,
+            0.1
+        ],
+        "Maximum EI": 2.3316176087908156,
+        "Predictive Variance": [
+            27.60354238
+        ],
+        "Predictive mean": [
+            132.3093102
+        ],
+        "Cumulative computation time": 41314.342790200004,
+        "Kernel": "67.8**2 * RBF(length_scale=[9.38, 9.44, 3.78, 11.8])",
+        "Log-likelihood": -86.27462842686073,
+        "Average Torque": -136.5083131263662,
+        "Torque Ripple": 19.119991232485383
+    },
+    {
+        "Sample": [
+            0.5,
+            1.98806519,
+            5.0,
+            0.65012141
+        ],
+        "Output": 127.25710168621384,
+        "Current maximum": 131.8538298083401,
+        "Current optimal point": [
+            0.5,
+            2.54303068,
+            5.0,
+            0.1
+        ],
+        "Maximum EI": 1.8830486298387343,
+        "Predictive Variance": [
+            12.74015392
+        ],
+        "Predictive mean": [
+            132.69355774
+        ],
+        "Cumulative computation time": 45139.8793393,
+        "Kernel": "63.2**2 * RBF(length_scale=[2.74, 11.1, 24.4, 2.7])",
+        "Log-likelihood": -90.59965468279438,
+        "Average Torque": -144.30431375082054,
+        "Torque Ripple": 17.0472120646067
+    },
+    {
+        "Sample": [
+            0.5,
+            8.58985454,
+            3.85469482,
+            0.1
+        ],
+        "Output": 129.64703416846703,
+        "Current maximum": 131.8538298083401,
+        "Current optimal point": [
+            0.5,
+            2.54303068,
+            5.0,
+            0.1
+        ],
+        "Maximum EI": 1.6223554302166836,
+        "Predictive Variance": [
+            25.8101089
+        ],
+        "Predictive mean": [
+            130.98599865
+        ],
+        "Cumulative computation time": 48075.4973569,
+        "Kernel": "74.6**2 * RBF(length_scale=[7.37, 10.2, 3.34, 13.6])",
+        "Log-likelihood": -92.90419839205339,
+        "Average Torque": -146.92425400159647,
+        "Torque Ripple": 17.27721983312945
+    },
+    {
+        "Sample": [
+            2.01986806,
+            1.0,
+            5.0,
+            0.1
+        ],
+        "Output": 128.5029709502781,
+        "Current maximum": 131.8538298083401,
+        "Current optimal point": [
+            0.5,
+            2.54303068,
+            5.0,
+            0.1
+        ],
+        "Maximum EI": 3.1025000357196553,
+        "Predictive Variance": [
+            1.12633571
+        ],
+        "Predictive mean": [
+            134.95579857
+        ],
+        "Cumulative computation time": 51893.9665827,
+        "Kernel": "75.1**2 * RBF(length_scale=[7.45, 10.2, 3.45, 13.5])",
+        "Log-likelihood": -95.45435940077216,
+        "Average Torque": -144.80772482825776,
+        "Torque Ripple": 16.304753877979667
+    },
+    {
+        "Sample": [
+            0.5,
+            7.16186,
+            5.0,
+            0.3763426
+        ],
+        "Output": 130.36179510931794,
+        "Current maximum": 131.8538298083401,
+        "Current optimal point": [
+            0.5,
+            2.54303068,
+            5.0,
+            0.1
+        ],
+        "Maximum EI": 6.016941818577674,
+        "Predictive Variance": [
+            6.06721218
+        ],
+        "Predictive mean": [
+            137.86484206
+        ],
+        "Cumulative computation time": 55040.2909102,
+        "Kernel": "85.7**2 * RBF(length_scale=[8.82, 17.3, 81.3, 0.831])",
+        "Log-likelihood": -97.91339397303148,
+        "Average Torque": -147.91390034264708,
+        "Torque Ripple": 17.55210523332913
+    },
+    {
+        "Sample": [
+            3.0,
+            1.0,
+            5.0,
+            2.0
+        ],
+        "Output": 106.73320237904292,
+        "Current maximum": 131.8538298083401,
+        "Current optimal point": [
+            0.5,
+            2.54303068,
+            5.0,
+            0.1
+        ],
+        "Maximum EI": 5.528816820158047,
+        "Predictive Variance": [
+            23.45709977
+        ],
+        "Predictive mean": [
+            137.02911655
+        ],
+        "Cumulative computation time": 59361.40009529999,
+        "Kernel": "67.8**2 * RBF(length_scale=[5.43, 11.3, 4.79, 2.76])",
+        "Log-likelihood": -105.22762964373668,
+        "Average Torque": -120.93764819863426,
+        "Torque Ripple": 14.204445819591344
+    },
+    {
+        "Sample": [
+            0.5,
+            1.0,
+            5.0,
+            1.38264194
+        ],
+        "Output": 119.49390596115653,
+        "Current maximum": 131.8538298083401,
+        "Current optimal point": [
+            0.5,
+            2.54303068,
+            5.0,
+            0.1
+        ],
+        "Maximum EI": 4.061307390795531,
+        "Predictive Variance": [
+            62.18831297
+        ],
+        "Predictive mean": [
+            133.54091846
+        ],
+        "Cumulative computation time": 63597.850719699985,
+        "Kernel": "80.1**2 * RBF(length_scale=[21.9, 17, 74.4, 0.574])",
+        "Log-likelihood": -106.40076278197526,
+        "Average Torque": -137.84975511697803,
+        "Torque Ripple": 18.3558491558215
+    },
+    {
+        "Sample": [
+            3.0,
+            7.69235442,
+            5.0,
+            0.92764749
+        ],
+        "Output": 125.0232361363529,
+        "Current maximum": 131.8538298083401,
+        "Current optimal point": [
+            0.5,
+            2.54303068,
+            5.0,
+            0.1
+        ],
+        "Maximum EI": 2.947033500917841,
+        "Predictive Variance": [
+            7.09646688
+        ],
+        "Predictive mean": [
+            134.59017177
+        ],
+        "Cumulative computation time": 66779.3716509,
+        "Kernel": "80.3**2 * RBF(length_scale=[19.9, 17.9, 125, 0.529])",
+        "Log-likelihood": -109.90507404318164,
+        "Average Torque": -138.94594124913755,
+        "Torque Ripple": 13.922705112784636
+    }
+]
